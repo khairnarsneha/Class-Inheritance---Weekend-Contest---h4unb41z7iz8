@@ -6,12 +6,10 @@ class Shape {
       
     this.color = "green";
   }
-   
-  drawShape() {
+   drawShape() {
     
   }
-   
-  calculateArea() {
+   calculateArea() {
     
   }
    
