@@ -1,5 +1,6 @@
 // declare class
 
+
 class Shape {
    
    constructor() {
